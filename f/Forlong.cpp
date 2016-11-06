@@ -9,6 +9,9 @@ int main() {
     ++p;
 
     *p = 0xFF;
+    for (int i = 0; i < 30; ++i) {
+        
+    }
 
     cout << hex << n1 << endl;
 }
